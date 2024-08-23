@@ -6,7 +6,6 @@ This repository is a curated collection of direct links to the career pages of t
 
 
 
-
 ## Table of Contents
 - [Tata Consultancy Services (TCS)](#tata-consultancy-services-tcs)
 - [Infosys](#infosys)
