@@ -4,7 +4,7 @@ This repository is a curated collection of direct links to the career pages of t
 
 🌟 Star this repository to keep it on your radar for future updates! <br>
 👥 Follow the repository to get notified when new links or updates are added. <br>
-💡 Contribute by submitting a pull request if you know of any additional companies that should be included or if you find any broken links. Contributions are always welcome! <br>
+💡 Contribute by submitting a pull request if you know of any additional companies that should be included or if you find any broken links. <br> Contributions are always welcome! <br>
 
 
 
