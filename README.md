@@ -1,9 +1,7 @@
 # Top-IT-Firms-Career-Pages
 Welcome to the **Top IT Firms Career Pages** repository! This repository contains direct links to the career pages of the leading IT companies around the world. Whether you're looking to explore new opportunities or stay updated with the latest job openings, this list will guide you to the right places.
 
-# Top 50 IT Companies in India - Career Pages
 
-This repository provides a comprehensive list of direct links to the career pages of the top 50 IT companies in India. These links will guide you to explore job opportunities, internships, and more.
 
 ## Table of Contents
 - [Tata Consultancy Services (TCS)](#tata-consultancy-services-tcs)
