@@ -2,9 +2,9 @@ Welcome to the Top IT Firms Career Pages repository! 🎯
 
 This repository is a curated collection of direct links to the career pages of the world's leading IT companies. Whether you're a job seeker looking to explore new opportunities or a professional aiming to stay updated with the latest job openings, this repository is your go-to resource.
 
-🌟 Star this repository to keep it on your radar for future updates! <\br>
-👥 Follow the repository to get notified when new links or updates are added. <\br>
-💡 Contribute by submitting a pull request if you know of any additional companies that should be included or if you find any broken links. Contributions are always welcome! <\br>
+🌟 Star this repository to keep it on your radar for future updates! <br>
+👥 Follow the repository to get notified when new links or updates are added. <br>
+💡 Contribute by submitting a pull request if you know of any additional companies that should be included or if you find any broken links. Contributions are always welcome! <br>
 
 
 
